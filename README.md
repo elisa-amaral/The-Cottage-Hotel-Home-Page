@@ -7,11 +7,6 @@ It was coded with intermediate HTML and CSS, with the purpose of developing a pr
 
 ![Screenshot](Screenshot.png)
 
-## Top Nav Bar Items That Have Content
-+ Home
-+ International 
-+ Gallery 
-
 ## Technology Stack
 
 + HTML
